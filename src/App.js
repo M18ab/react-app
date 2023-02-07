@@ -14,7 +14,7 @@ function App() {
       <div class="card" id="card1">
       <h2 id="header"> W2 Homework </h2>
         <h3>By Spenser McLaughlin</h3>
-         <img src="https://avatars.githubusercontent.com/u/329735?v=4" alt="btopro">
+         <img src="https://avatars.githubusercontent.com/u/329735?v=4" alt="btopro"/>
         <p id="paragraph"> </p>                 
         <button class="btn" id="btn"> Details </button>
       </div>
