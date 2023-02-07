@@ -43,10 +43,6 @@ img{
   margin:25px;
 }
 
-/* .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-} */
-
 button:hover {
   border: 2px dashed #a71c19;
   background-color: white;
